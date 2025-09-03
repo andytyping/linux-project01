@@ -1,8 +1,8 @@
 # Рецепт пельменей
 
-![Пельмени на тарелке](https://eda.ru/images/RecipePhoto/620x415/pelmeni_20811_photo_33016.webp)
+![Пельмени на тарелке](https://abrakadabra.fun/uploads/posts/2021-12/1640133029_7-abrakadabra-fun-p-tarelka-pelmenei-png-13.jpg)
 
-## Ингридиенты
+## Ингредиенты
 
 |Название|Количество|
 |--------|----------|
